@@ -100,24 +100,6 @@
   font-size: 13px;
 }
 
-.panelHeadActions {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-}
-
-.linkBtn {
-  background: transparent;
-  border: 0;
-  color: var(--color-text-muted);
-  font-size: 12px;
-  padding: 2px 4px;
-  border-radius: 4px;
-}
-
-.linkBtn:hover {
-  color: var(--color-text);
-}
 
 .closeBtn {
   background: transparent;
@@ -250,12 +232,41 @@
   color: #fff;
 }
 
+.actionRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.clearBtn {
+  background: transparent;
+  border: 0;
+  color: var(--color-text-muted);
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 0;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.clearBtn:hover:not(:disabled) {
+  color: var(--color-danger);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.clearBtn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
 .downloadBtn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   gap: 8px;
-  width: 100%;
+  flex: 1;
   background: var(--color-accent);
   color: #fff;
   border: 0;

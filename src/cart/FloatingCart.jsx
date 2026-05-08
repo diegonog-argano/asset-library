@@ -66,30 +66,21 @@ export default function FloatingCart({ onToast }) {
             <span className={styles.panelTitle}>
               {count} {count === 1 ? 'icon' : 'icons'} ready to download
             </span>
-            <div className={styles.panelHeadActions}>
-              <button
-                type="button"
-                className={styles.linkBtn}
-                onClick={() => clear()}
-              >
-                Clear all
-              </button>
-              <button
-                type="button"
-                className={styles.closeBtn}
-                onClick={() => setOpen(false)}
-                aria-label="Close downloads"
-              >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
-                  <path
-                    d="M6 6l12 12M18 6L6 18"
-                    stroke="currentColor"
-                    strokeWidth="2"
-                    strokeLinecap="round"
-                  />
-                </svg>
-              </button>
-            </div>
+            <button
+              type="button"
+              className={styles.closeBtn}
+              onClick={() => setOpen(false)}
+              aria-label="Close downloads"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                <path
+                  d="M6 6l12 12M18 6L6 18"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                />
+              </svg>
+            </button>
           </div>
 
           <ul className={styles.list}>
@@ -149,29 +140,39 @@ export default function FloatingCart({ onToast }) {
             </div>
           </div>
 
-          <button
-            type="button"
-            className={styles.downloadBtn}
-            onClick={handleDownload}
-            disabled={busy}
-          >
-            {!busy && (
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                <path
-                  d="M12 4v11m0 0l-4-4m4 4l4-4M5 19h14"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-              </svg>
-            )}
-            {busy
-              ? 'Preparing…'
-              : count === 1
-              ? `Download ${format.toUpperCase()}`
-              : `Download ${count} as ZIP`}
-          </button>
+          <div className={styles.actionRow}>
+            <button
+              type="button"
+              className={styles.clearBtn}
+              onClick={() => clear()}
+              disabled={busy}
+            >
+              Clear all
+            </button>
+            <button
+              type="button"
+              className={styles.downloadBtn}
+              onClick={handleDownload}
+              disabled={busy}
+            >
+              {!busy && (
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                  <path
+                    d="M12 4v11m0 0l-4-4m4 4l4-4M5 19h14"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                </svg>
+              )}
+              {busy
+                ? 'Preparing…'
+                : count === 1
+                ? `Download ${format.toUpperCase()}`
+                : `Download ${count} as ZIP`}
+            </button>
+          </div>
         </div>
       )}
 
