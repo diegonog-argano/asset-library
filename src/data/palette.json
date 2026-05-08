@@ -1,0 +1,74 @@
+{
+  "solids": [
+    { "name": "Primary Orange", "hex": "#ff5c00", "family": "primary" },
+
+    { "name": "Orange Tint 1", "hex": "#f8d648", "family": "secondary" },
+    { "name": "Orange Tint 2", "hex": "#ff8f00", "family": "secondary" },
+    { "name": "Orange Shade", "hex": "#ec5723", "family": "secondary" },
+    { "name": "Blue Tint", "hex": "#9ed2ff", "family": "secondary" },
+    { "name": "Blue Shade", "hex": "#111e6a", "family": "secondary" },
+    { "name": "Sand Tint 1", "hex": "#fff5ed", "family": "secondary" },
+    { "name": "Sand", "hex": "#f2e6dd", "family": "secondary" },
+    { "name": "Sand Shade", "hex": "#b0a099", "family": "secondary" },
+
+    { "name": "Indigo", "hex": "#5a0def", "family": "accent" },
+    { "name": "Magenta", "hex": "#ff2e84", "family": "accent" },
+    { "name": "Electric Blue", "hex": "#191bff", "family": "accent" },
+    { "name": "Turquoise", "hex": "#0d8bbc", "family": "accent" },
+
+    { "name": "White", "hex": "#ffffff", "family": "neutral" },
+    { "name": "Neutral 1", "hex": "#fafafa", "family": "neutral" },
+    { "name": "Neutral 2", "hex": "#ebebeb", "family": "neutral" },
+    { "name": "Neutral 3", "hex": "#d7d7d7", "family": "neutral" },
+    { "name": "Neutral 4", "hex": "#b3b3b3", "family": "neutral" },
+    { "name": "Neutral 5", "hex": "#5c5c5c", "family": "neutral" },
+    { "name": "Neutral 6", "hex": "#252423", "family": "neutral" },
+    { "name": "Black", "hex": "#1f1f1f", "family": "neutral" }
+  ],
+  "gradients": [
+    {
+      "name": "Warm",
+      "css": "linear-gradient(135deg, #f8d648 0%, #ec5723 25%, #ff2e84 75%, #ff8f00 100%)"
+    },
+    {
+      "name": "Warm Pink",
+      "css": "linear-gradient(135deg, #f8d648 0%, #ec5723 32%, #ff2e84 90%, #ff8f00 100%)"
+    },
+    {
+      "name": "Warm 01",
+      "css": "linear-gradient(135deg, #ff5c00 0%, #f8d648 100%)"
+    },
+    {
+      "name": "Warm 01 Reverse",
+      "css": "linear-gradient(135deg, #f8d648 0%, #ff5c00 100%)"
+    },
+    {
+      "name": "CTA",
+      "css": "linear-gradient(135deg, #ff5c00 0%, #ff8f00 100%)"
+    },
+    {
+      "name": "Cool",
+      "css": "linear-gradient(135deg, #9ed2ff 0%, #191bff 28%, #590def 47%, #590def 74%, #111e6a 100%)"
+    },
+    {
+      "name": "Cool 01",
+      "css": "linear-gradient(135deg, #111e6a 0%, #12206c 25%, #192873 41%, #24377e 53%, #344b8f 64%, #4965a5 74%, #6286c0 84%, #80abdf 93%, #9ed2ff 100%)"
+    },
+    {
+      "name": "Cool 01 Reverse",
+      "css": "linear-gradient(135deg, #9ed2ff 0%, #80abdf 7%, #6286c0 16%, #4965a5 26%, #344b8f 36%, #24377e 47%, #192873 59%, #12206c 75%, #111e6a 100%)"
+    },
+    {
+      "name": "Cool 02",
+      "css": "linear-gradient(135deg, #9ed2ff 0%, #ffffff 100%)"
+    },
+    {
+      "name": "Cool 02 BG",
+      "css": "linear-gradient(135deg, #a0d4fd 0%, #ffffff 100%)"
+    },
+    {
+      "name": "Cool 02 Reverse",
+      "css": "linear-gradient(135deg, #ffffff 0%, #9ed2ff 100%)"
+    }
+  ]
+}

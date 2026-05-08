@@ -1,0 +1,3434 @@
+[
+  {
+    "id": "ai",
+    "type": "icon",
+    "name": "AI",
+    "filename": "ai.svg",
+    "keywords": [
+      "ai"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21720"
+    }
+  },
+  {
+    "id": "ai-generative",
+    "type": "icon",
+    "name": "AI generative",
+    "filename": "ai-generative.svg",
+    "keywords": [
+      "ai",
+      "generative"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21756"
+    }
+  },
+  {
+    "id": "ai-line",
+    "type": "icon",
+    "name": "AI line",
+    "filename": "ai-line.svg",
+    "keywords": [
+      "ai",
+      "line"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21804"
+    }
+  },
+  {
+    "id": "aim",
+    "type": "icon",
+    "name": "Aim",
+    "filename": "aim.svg",
+    "keywords": [
+      "aim"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21838"
+    }
+  },
+  {
+    "id": "alert",
+    "type": "icon",
+    "name": "Alert",
+    "filename": "alert.svg",
+    "keywords": [
+      "alert"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21723"
+    }
+  },
+  {
+    "id": "api",
+    "type": "icon",
+    "name": "API",
+    "filename": "api.svg",
+    "keywords": [
+      "api"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21754"
+    }
+  },
+  {
+    "id": "apps",
+    "type": "icon",
+    "name": "Apps",
+    "filename": "apps.svg",
+    "keywords": [
+      "apps"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21852"
+    }
+  },
+  {
+    "id": "arrow",
+    "type": "icon",
+    "name": "Arrow",
+    "filename": "arrow.svg",
+    "keywords": [
+      "arrow"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21893"
+    }
+  },
+  {
+    "id": "assessments-and-tools",
+    "type": "icon",
+    "name": "Assessments and Tools",
+    "filename": "assessments-and-tools.svg",
+    "keywords": [
+      "assessments",
+      "tools"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21889"
+    }
+  },
+  {
+    "id": "attracting-talent",
+    "type": "icon",
+    "name": "Attracting Talent",
+    "filename": "attracting-talent.svg",
+    "keywords": [
+      "attracting",
+      "talent"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21832"
+    }
+  },
+  {
+    "id": "automated-process-editable",
+    "type": "icon",
+    "name": "Automated Process Editable",
+    "filename": "automated-process-editable.svg",
+    "keywords": [
+      "automated",
+      "process",
+      "editable"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21925"
+    }
+  },
+  {
+    "id": "automation-process",
+    "type": "icon",
+    "name": "Automation Process",
+    "filename": "automation-process.svg",
+    "keywords": [
+      "automation",
+      "process"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21835"
+    }
+  },
+  {
+    "id": "automotive",
+    "type": "icon",
+    "name": "Automotive",
+    "filename": "automotive.svg",
+    "keywords": [
+      "automotive"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21851"
+    }
+  },
+  {
+    "id": "automotive-retail",
+    "type": "icon",
+    "name": "Automotive Retail",
+    "filename": "automotive-retail.svg",
+    "keywords": [
+      "automotive",
+      "retail"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21906"
+    }
+  },
+  {
+    "id": "award-1",
+    "type": "icon",
+    "name": "Award 1",
+    "filename": "award-1.svg",
+    "keywords": [
+      "award"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21803"
+    }
+  },
+  {
+    "id": "award-2",
+    "type": "icon",
+    "name": "Award 2",
+    "filename": "award-2.svg",
+    "keywords": [
+      "award"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21895"
+    }
+  },
+  {
+    "id": "back-end",
+    "type": "icon",
+    "name": "Back-End",
+    "filename": "back-end.svg",
+    "keywords": [
+      "back",
+      "end"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21885"
+    }
+  },
+  {
+    "id": "backhaul",
+    "type": "icon",
+    "name": "Backhaul",
+    "filename": "backhaul.svg",
+    "keywords": [
+      "backhaul"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21840"
+    }
+  },
+  {
+    "id": "balance",
+    "type": "icon",
+    "name": "Balance",
+    "filename": "balance.svg",
+    "keywords": [
+      "balance"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21918"
+    }
+  },
+  {
+    "id": "benchmarking",
+    "type": "icon",
+    "name": "Benchmarking",
+    "filename": "benchmarking.svg",
+    "keywords": [
+      "benchmarking"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21891"
+    }
+  },
+  {
+    "id": "better-plate",
+    "type": "icon",
+    "name": "Better Plate",
+    "filename": "better-plate.svg",
+    "keywords": [
+      "better",
+      "plate"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21896"
+    }
+  },
+  {
+    "id": "better-plate-2",
+    "type": "icon",
+    "name": "Better Plate",
+    "filename": "better-plate-2.svg",
+    "keywords": [
+      "better",
+      "plate"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21749"
+    }
+  },
+  {
+    "id": "better-plate-3",
+    "type": "icon",
+    "name": "Better Plate",
+    "filename": "better-plate-3.svg",
+    "keywords": [
+      "better",
+      "plate"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21839"
+    }
+  },
+  {
+    "id": "bridging-the-gap",
+    "type": "icon",
+    "name": "Bridging the gap",
+    "filename": "bridging-the-gap.svg",
+    "keywords": [
+      "bridging",
+      "gap"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21736"
+    }
+  },
+  {
+    "id": "business-consultant",
+    "type": "icon",
+    "name": "Business consultant",
+    "filename": "business-consultant.svg",
+    "keywords": [
+      "business",
+      "consultant"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21737"
+    }
+  },
+  {
+    "id": "calendar",
+    "type": "icon",
+    "name": "Calendar",
+    "filename": "calendar.svg",
+    "keywords": [
+      "calendar"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21844"
+    }
+  },
+  {
+    "id": "calendar-2",
+    "type": "icon",
+    "name": "Calendar 2",
+    "filename": "calendar-2.svg",
+    "keywords": [
+      "calendar"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21725"
+    }
+  },
+  {
+    "id": "career-growth",
+    "type": "icon",
+    "name": "Career Growth",
+    "filename": "career-growth.svg",
+    "keywords": [
+      "career",
+      "growth"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21726"
+    }
+  },
+  {
+    "id": "check-mark",
+    "type": "icon",
+    "name": "Check Mark",
+    "filename": "check-mark.svg",
+    "keywords": [
+      "check",
+      "mark"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21843"
+    }
+  },
+  {
+    "id": "chemicals",
+    "type": "icon",
+    "name": "Chemicals",
+    "filename": "chemicals.svg",
+    "keywords": [
+      "chemicals"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21913"
+    }
+  },
+  {
+    "id": "client-assessment",
+    "type": "icon",
+    "name": "Client Assessment",
+    "filename": "client-assessment.svg",
+    "keywords": [
+      "client",
+      "assessment"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21727"
+    }
+  },
+  {
+    "id": "climate-change",
+    "type": "icon",
+    "name": "Climate Change",
+    "filename": "climate-change.svg",
+    "keywords": [
+      "climate",
+      "change"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21901"
+    }
+  },
+  {
+    "id": "close",
+    "type": "icon",
+    "name": "Close",
+    "filename": "close.svg",
+    "keywords": [
+      "close"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21924"
+    }
+  },
+  {
+    "id": "close-2",
+    "type": "icon",
+    "name": "Close",
+    "filename": "close-2.svg",
+    "keywords": [
+      "close"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21729"
+    }
+  },
+  {
+    "id": "closed-loop-data",
+    "type": "icon",
+    "name": "Closed Loop Data",
+    "filename": "closed-loop-data.svg",
+    "keywords": [
+      "closed",
+      "loop",
+      "data"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21730"
+    }
+  },
+  {
+    "id": "cloud-apis",
+    "type": "icon",
+    "name": "Cloud APIs",
+    "filename": "cloud-apis.svg",
+    "keywords": [
+      "cloud",
+      "apis"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21868"
+    }
+  },
+  {
+    "id": "cloud-enablement",
+    "type": "icon",
+    "name": "Cloud Enablement",
+    "filename": "cloud-enablement.svg",
+    "keywords": [
+      "cloud",
+      "enablement"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21897"
+    }
+  },
+  {
+    "id": "cloud-flows",
+    "type": "icon",
+    "name": "Cloud flows",
+    "filename": "cloud-flows.svg",
+    "keywords": [
+      "cloud",
+      "flows"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21929"
+    }
+  },
+  {
+    "id": "cloud-infrastructure",
+    "type": "icon",
+    "name": "Cloud Infrastructure",
+    "filename": "cloud-infrastructure.svg",
+    "keywords": [
+      "cloud",
+      "infrastructure"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21902"
+    }
+  },
+  {
+    "id": "cloud-migration-and-architecture",
+    "type": "icon",
+    "name": "Cloud Migration and Architecture",
+    "filename": "cloud-migration-and-architecture.svg",
+    "keywords": [
+      "cloud",
+      "migration",
+      "architecture"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21766"
+    }
+  },
+  {
+    "id": "cloud-solutions",
+    "type": "icon",
+    "name": "Cloud Solutions",
+    "filename": "cloud-solutions.svg",
+    "keywords": [
+      "cloud",
+      "solutions"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21920"
+    }
+  },
+  {
+    "id": "cms",
+    "type": "icon",
+    "name": "CMS",
+    "filename": "cms.svg",
+    "keywords": [
+      "cms"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21907"
+    }
+  },
+  {
+    "id": "coaching",
+    "type": "icon",
+    "name": "Coaching",
+    "filename": "coaching.svg",
+    "keywords": [
+      "coaching"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21881"
+    }
+  },
+  {
+    "id": "commerce",
+    "type": "icon",
+    "name": "Commerce",
+    "filename": "commerce.svg",
+    "keywords": [
+      "commerce"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21905"
+    }
+  },
+  {
+    "id": "communications-media-entertainment",
+    "type": "icon",
+    "name": "Communications, Media & Entertainment",
+    "filename": "communications-media-entertainment.svg",
+    "keywords": [
+      "communications",
+      "media",
+      "entertainment"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21735"
+    }
+  },
+  {
+    "id": "compensations-and-benefits",
+    "type": "icon",
+    "name": "Compensations and Benefits",
+    "filename": "compensations-and-benefits.svg",
+    "keywords": [
+      "compensations",
+      "benefits"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21836"
+    }
+  },
+  {
+    "id": "configuration",
+    "type": "icon",
+    "name": "Configuration",
+    "filename": "configuration.svg",
+    "keywords": [
+      "configuration"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21741"
+    }
+  },
+  {
+    "id": "connect",
+    "type": "icon",
+    "name": "Connect",
+    "filename": "connect.svg",
+    "keywords": [
+      "connect"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21903"
+    }
+  },
+  {
+    "id": "construction-engineering",
+    "type": "icon",
+    "name": "Construction & Engineering",
+    "filename": "construction-engineering.svg",
+    "keywords": [
+      "construction",
+      "engineering"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21922"
+    }
+  },
+  {
+    "id": "construction-materials",
+    "type": "icon",
+    "name": "Construction Materials",
+    "filename": "construction-materials.svg",
+    "keywords": [
+      "construction",
+      "materials"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21928"
+    }
+  },
+  {
+    "id": "consulting-team",
+    "type": "icon",
+    "name": "Consulting Team",
+    "filename": "consulting-team.svg",
+    "keywords": [
+      "consulting",
+      "team"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21769"
+    }
+  },
+  {
+    "id": "consumer-experience-2",
+    "type": "icon",
+    "name": "Consumer Experience 2",
+    "filename": "consumer-experience-2.svg",
+    "keywords": [
+      "consumer",
+      "experience"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21805"
+    }
+  },
+  {
+    "id": "consumer-experience-3",
+    "type": "icon",
+    "name": "Consumer Experience 3",
+    "filename": "consumer-experience-3.svg",
+    "keywords": [
+      "consumer",
+      "experience"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21911"
+    }
+  },
+  {
+    "id": "consumer-experience-4",
+    "type": "icon",
+    "name": "Consumer Experience 4",
+    "filename": "consumer-experience-4.svg",
+    "keywords": [
+      "consumer",
+      "experience"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21825"
+    }
+  },
+  {
+    "id": "conversations",
+    "type": "icon",
+    "name": "Conversations",
+    "filename": "conversations.svg",
+    "keywords": [
+      "conversations"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21732"
+    }
+  },
+  {
+    "id": "core-integrations",
+    "type": "icon",
+    "name": "Core Integrations",
+    "filename": "core-integrations.svg",
+    "keywords": [
+      "core",
+      "integrations"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21757"
+    }
+  },
+  {
+    "id": "customer-experience",
+    "type": "icon",
+    "name": "Customer Experience",
+    "filename": "customer-experience.svg",
+    "keywords": [
+      "customer",
+      "experience"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21790"
+    }
+  },
+  {
+    "id": "data",
+    "type": "icon",
+    "name": "Data",
+    "filename": "data.svg",
+    "keywords": [
+      "data"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21866"
+    }
+  },
+  {
+    "id": "data-collection",
+    "type": "icon",
+    "name": "Data Collection",
+    "filename": "data-collection.svg",
+    "keywords": [
+      "data",
+      "collection"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21808"
+    }
+  },
+  {
+    "id": "data-insights",
+    "type": "icon",
+    "name": "Data Insights",
+    "filename": "data-insights.svg",
+    "keywords": [
+      "data",
+      "insights"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21799"
+    }
+  },
+  {
+    "id": "data-insights-2",
+    "type": "icon",
+    "name": "Data insights 2",
+    "filename": "data-insights-2.svg",
+    "keywords": [
+      "data",
+      "insights"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21719"
+    }
+  },
+  {
+    "id": "data-insights-3",
+    "type": "icon",
+    "name": "Data insights",
+    "filename": "data-insights-3.svg",
+    "keywords": [
+      "data",
+      "insights"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21728"
+    }
+  },
+  {
+    "id": "data-literacy",
+    "type": "icon",
+    "name": "Data Literacy",
+    "filename": "data-literacy.svg",
+    "keywords": [
+      "data",
+      "literacy"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21743"
+    }
+  },
+  {
+    "id": "data-reporting",
+    "type": "icon",
+    "name": "Data Reporting",
+    "filename": "data-reporting.svg",
+    "keywords": [
+      "data",
+      "reporting"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21869"
+    }
+  },
+  {
+    "id": "data-services",
+    "type": "icon",
+    "name": "Data Services",
+    "filename": "data-services.svg",
+    "keywords": [
+      "data",
+      "services"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21871"
+    }
+  },
+  {
+    "id": "data-visualization",
+    "type": "icon",
+    "name": "Data visualization",
+    "filename": "data-visualization.svg",
+    "keywords": [
+      "data",
+      "visualization"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21718"
+    }
+  },
+  {
+    "id": "decrease",
+    "type": "icon",
+    "name": "Decrease",
+    "filename": "decrease.svg",
+    "keywords": [
+      "decrease"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21742"
+    }
+  },
+  {
+    "id": "desktop-computer",
+    "type": "icon",
+    "name": "Desktop Computer",
+    "filename": "desktop-computer.svg",
+    "keywords": [
+      "desktop",
+      "computer"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21733"
+    }
+  },
+  {
+    "id": "dialogue",
+    "type": "icon",
+    "name": "Dialogue",
+    "filename": "dialogue.svg",
+    "keywords": [
+      "dialogue"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21854"
+    }
+  },
+  {
+    "id": "digital-readiness-services",
+    "type": "icon",
+    "name": "Digital Readiness Services",
+    "filename": "digital-readiness-services.svg",
+    "keywords": [
+      "digital",
+      "readiness",
+      "services"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21861"
+    }
+  },
+  {
+    "id": "distribution",
+    "type": "icon",
+    "name": "Distribution",
+    "filename": "distribution.svg",
+    "keywords": [
+      "distribution"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21734"
+    }
+  },
+  {
+    "id": "document",
+    "type": "icon",
+    "name": "Document",
+    "filename": "document.svg",
+    "keywords": [
+      "document"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21900"
+    }
+  },
+  {
+    "id": "document-2",
+    "type": "icon",
+    "name": "Document 2",
+    "filename": "document-2.svg",
+    "keywords": [
+      "document"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21856"
+    }
+  },
+  {
+    "id": "dynamics-365-commerce",
+    "type": "icon",
+    "name": "Dynamics 365 - Commerce",
+    "filename": "dynamics-365-commerce.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "commerce"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21888"
+    }
+  },
+  {
+    "id": "dynamics-365-customer-insights",
+    "type": "icon",
+    "name": "Dynamics 365 - Customer Insights",
+    "filename": "dynamics-365-customer-insights.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "customer",
+      "insights"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21921"
+    }
+  },
+  {
+    "id": "dynamics-365-customer-service",
+    "type": "icon",
+    "name": "Dynamics 365 - Customer Service",
+    "filename": "dynamics-365-customer-service.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "customer",
+      "service"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21849"
+    }
+  },
+  {
+    "id": "dynamics-365-field-service",
+    "type": "icon",
+    "name": "Dynamics 365 - Field Service",
+    "filename": "dynamics-365-field-service.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "field",
+      "service"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21898"
+    }
+  },
+  {
+    "id": "dynamics-365-finance",
+    "type": "icon",
+    "name": "Dynamics 365 - Finance",
+    "filename": "dynamics-365-finance.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "finance"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21883"
+    }
+  },
+  {
+    "id": "dynamics-365-human-resources",
+    "type": "icon",
+    "name": "Dynamics 365 - Human Resources",
+    "filename": "dynamics-365-human-resources.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "human",
+      "resources"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21875"
+    }
+  },
+  {
+    "id": "dynamics-365-marketing",
+    "type": "icon",
+    "name": "Dynamics 365 - Marketing",
+    "filename": "dynamics-365-marketing.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "marketing"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21887"
+    }
+  },
+  {
+    "id": "dynamics-365-project-operations",
+    "type": "icon",
+    "name": "Dynamics 365 - Project Operations",
+    "filename": "dynamics-365-project-operations.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "project",
+      "operations"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21894"
+    }
+  },
+  {
+    "id": "dynamics-365-sales",
+    "type": "icon",
+    "name": "Dynamics 365 - Sales",
+    "filename": "dynamics-365-sales.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "sales"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21873"
+    }
+  },
+  {
+    "id": "dynamics-365-supply-chain-management",
+    "type": "icon",
+    "name": "Dynamics 365 - Supply Chain Management",
+    "filename": "dynamics-365-supply-chain-management.svg",
+    "keywords": [
+      "dynamics",
+      "365",
+      "supply",
+      "chain",
+      "management"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21877"
+    }
+  },
+  {
+    "id": "dynamics-extensions",
+    "type": "icon",
+    "name": "Dynamics Extensions",
+    "filename": "dynamics-extensions.svg",
+    "keywords": [
+      "dynamics",
+      "extensions"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21829"
+    }
+  },
+  {
+    "id": "dynamics-extensions-approvals-pro",
+    "type": "icon",
+    "name": "Dynamics Extensions - Approvals Pro",
+    "filename": "dynamics-extensions-approvals-pro.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "approvals",
+      "pro"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21822"
+    }
+  },
+  {
+    "id": "dynamics-extensions-audit-security-and-compliance",
+    "type": "icon",
+    "name": "Dynamics Extensions - Audit Security and Compliance",
+    "filename": "dynamics-extensions-audit-security-and-compliance.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "audit",
+      "security",
+      "compliance"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21870"
+    }
+  },
+  {
+    "id": "dynamics-extensions-automation-process",
+    "type": "icon",
+    "name": "Dynamics Extensions - Automation Process",
+    "filename": "dynamics-extensions-automation-process.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "automation",
+      "process"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21867"
+    }
+  },
+  {
+    "id": "dynamics-extensions-cx-connect",
+    "type": "icon",
+    "name": "Dynamics Extensions - CX Connect",
+    "filename": "dynamics-extensions-cx-connect.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "cx",
+      "connect"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21738"
+    }
+  },
+  {
+    "id": "dynamics-extensions-data-insights",
+    "type": "icon",
+    "name": "Dynamics Extensions - Data Insights",
+    "filename": "dynamics-extensions-data-insights.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "data",
+      "insights"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21842"
+    }
+  },
+  {
+    "id": "dynamics-extensions-data-insights-2",
+    "type": "icon",
+    "name": "Dynamics Extensions - Data Insights",
+    "filename": "dynamics-extensions-data-insights-2.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "data",
+      "insights"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21739"
+    }
+  },
+  {
+    "id": "dynamics-extensions-erp-connect",
+    "type": "icon",
+    "name": "Dynamics Extensions - ERP Connect",
+    "filename": "dynamics-extensions-erp-connect.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "erp",
+      "connect"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21858"
+    }
+  },
+  {
+    "id": "dynamics-extensions-financial-consolidation",
+    "type": "icon",
+    "name": "Dynamics Extensions - Financial Consolidation",
+    "filename": "dynamics-extensions-financial-consolidation.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "financial",
+      "consolidation"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21864"
+    }
+  },
+  {
+    "id": "dynamics-extensions-master-data-centralization",
+    "type": "icon",
+    "name": "Dynamics Extensions - Master Data Centralization",
+    "filename": "dynamics-extensions-master-data-centralization.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "master",
+      "data",
+      "centralization"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21740"
+    }
+  },
+  {
+    "id": "dynamics-extensions-warranty-pro",
+    "type": "icon",
+    "name": "Dynamics Extensions - Warranty Pro",
+    "filename": "dynamics-extensions-warranty-pro.svg",
+    "keywords": [
+      "dynamics",
+      "extensions",
+      "warranty",
+      "pro"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21744"
+    }
+  },
+  {
+    "id": "economic-expansion",
+    "type": "icon",
+    "name": "Economic Expansion",
+    "filename": "economic-expansion.svg",
+    "keywords": [
+      "economic",
+      "expansion"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21904"
+    }
+  },
+  {
+    "id": "economic-growth",
+    "type": "icon",
+    "name": "Economic Growth",
+    "filename": "economic-growth.svg",
+    "keywords": [
+      "economic",
+      "growth"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21783"
+    }
+  },
+  {
+    "id": "economic-recession",
+    "type": "icon",
+    "name": "Economic Recession",
+    "filename": "economic-recession.svg",
+    "keywords": [
+      "economic",
+      "recession"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21833"
+    }
+  },
+  {
+    "id": "education",
+    "type": "icon",
+    "name": "Education",
+    "filename": "education.svg",
+    "keywords": [
+      "education"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21853"
+    }
+  },
+  {
+    "id": "end-to-end",
+    "type": "icon",
+    "name": "End to end",
+    "filename": "end-to-end.svg",
+    "keywords": [
+      "end",
+      "to"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21716"
+    }
+  },
+  {
+    "id": "energy-storage",
+    "type": "icon",
+    "name": "Energy Storage",
+    "filename": "energy-storage.svg",
+    "keywords": [
+      "energy",
+      "storage"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21862"
+    }
+  },
+  {
+    "id": "enterprise-integration",
+    "type": "icon",
+    "name": "Enterprise Integration",
+    "filename": "enterprise-integration.svg",
+    "keywords": [
+      "enterprise",
+      "integration"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21814"
+    }
+  },
+  {
+    "id": "enterprise-performance-management",
+    "type": "icon",
+    "name": "Enterprise Performance Management",
+    "filename": "enterprise-performance-management.svg",
+    "keywords": [
+      "enterprise",
+      "performance",
+      "management"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21914"
+    }
+  },
+  {
+    "id": "enterprise-resource-planning-2",
+    "type": "icon",
+    "name": "Enterprise Resource Planning 2",
+    "filename": "enterprise-resource-planning-2.svg",
+    "keywords": [
+      "enterprise",
+      "resource",
+      "planning"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21880"
+    }
+  },
+  {
+    "id": "enterprise-resource-planning-3",
+    "type": "icon",
+    "name": "Enterprise Resource Planning 3",
+    "filename": "enterprise-resource-planning-3.svg",
+    "keywords": [
+      "enterprise",
+      "resource",
+      "planning"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21912"
+    }
+  },
+  {
+    "id": "enterprise-resource-planning-3-2",
+    "type": "icon",
+    "name": "Enterprise Resource Planning 3",
+    "filename": "enterprise-resource-planning-3-2.svg",
+    "keywords": [
+      "enterprise",
+      "resource",
+      "planning"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21747"
+    }
+  },
+  {
+    "id": "enterprise-resource-planning-4",
+    "type": "icon",
+    "name": "Enterprise Resource Planning 4",
+    "filename": "enterprise-resource-planning-4.svg",
+    "keywords": [
+      "enterprise",
+      "resource",
+      "planning"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21860"
+    }
+  },
+  {
+    "id": "enterprise-resource-planning-5",
+    "type": "icon",
+    "name": "Enterprise Resource Planning 5",
+    "filename": "enterprise-resource-planning-5.svg",
+    "keywords": [
+      "enterprise",
+      "resource",
+      "planning"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21745"
+    }
+  },
+  {
+    "id": "entertainment",
+    "type": "icon",
+    "name": "Entertainment",
+    "filename": "entertainment.svg",
+    "keywords": [
+      "entertainment"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21874"
+    }
+  },
+  {
+    "id": "experienced",
+    "type": "icon",
+    "name": "Experienced",
+    "filename": "experienced.svg",
+    "keywords": [
+      "experienced"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21863"
+    }
+  },
+  {
+    "id": "fashion",
+    "type": "icon",
+    "name": "Fashion",
+    "filename": "fashion.svg",
+    "keywords": [
+      "fashion"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21847"
+    }
+  },
+  {
+    "id": "financial-growth",
+    "type": "icon",
+    "name": "Financial growth",
+    "filename": "financial-growth.svg",
+    "keywords": [
+      "financial",
+      "growth"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21908"
+    }
+  },
+  {
+    "id": "financial-services",
+    "type": "icon",
+    "name": "Financial Services",
+    "filename": "financial-services.svg",
+    "keywords": [
+      "financial",
+      "services"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21784"
+    }
+  },
+  {
+    "id": "firewall",
+    "type": "icon",
+    "name": "Firewall",
+    "filename": "firewall.svg",
+    "keywords": [
+      "firewall"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21788"
+    }
+  },
+  {
+    "id": "food-beverage",
+    "type": "icon",
+    "name": "Food & Beverage",
+    "filename": "food-beverage.svg",
+    "keywords": [
+      "food",
+      "beverage"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21806"
+    }
+  },
+  {
+    "id": "front-end",
+    "type": "icon",
+    "name": "Front-End",
+    "filename": "front-end.svg",
+    "keywords": [
+      "front",
+      "end"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21771"
+    }
+  },
+  {
+    "id": "global",
+    "type": "icon",
+    "name": "Global",
+    "filename": "global.svg",
+    "keywords": [
+      "global"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21755"
+    }
+  },
+  {
+    "id": "global-transport",
+    "type": "icon",
+    "name": "Global transport",
+    "filename": "global-transport.svg",
+    "keywords": [
+      "global",
+      "transport"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21857"
+    }
+  },
+  {
+    "id": "goal",
+    "type": "icon",
+    "name": "Goal",
+    "filename": "goal.svg",
+    "keywords": [
+      "goal"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21715"
+    }
+  },
+  {
+    "id": "group",
+    "type": "icon",
+    "name": "Group",
+    "filename": "group.svg",
+    "keywords": [
+      "group"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21748"
+    }
+  },
+  {
+    "id": "growth",
+    "type": "icon",
+    "name": "Growth",
+    "filename": "growth.svg",
+    "keywords": [
+      "growth"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21846"
+    }
+  },
+  {
+    "id": "hacker",
+    "type": "icon",
+    "name": "Hacker",
+    "filename": "hacker.svg",
+    "keywords": [
+      "hacker"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21751"
+    }
+  },
+  {
+    "id": "handheld",
+    "type": "icon",
+    "name": "Handheld",
+    "filename": "handheld.svg",
+    "keywords": [
+      "handheld"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21919"
+    }
+  },
+  {
+    "id": "handshake",
+    "type": "icon",
+    "name": "Handshake",
+    "filename": "handshake.svg",
+    "keywords": [
+      "handshake"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21774"
+    }
+  },
+  {
+    "id": "headset",
+    "type": "icon",
+    "name": "Headset",
+    "filename": "headset.svg",
+    "keywords": [
+      "headset"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21813"
+    }
+  },
+  {
+    "id": "healthcare-1",
+    "type": "icon",
+    "name": "Healthcare 1",
+    "filename": "healthcare-1.svg",
+    "keywords": [
+      "healthcare"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21752"
+    }
+  },
+  {
+    "id": "healthcare-2",
+    "type": "icon",
+    "name": "Healthcare 2",
+    "filename": "healthcare-2.svg",
+    "keywords": [
+      "healthcare"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21753"
+    }
+  },
+  {
+    "id": "healthcare-life-sciences",
+    "type": "icon",
+    "name": "Healthcare, Life Sciences",
+    "filename": "healthcare-life-sciences.svg",
+    "keywords": [
+      "healthcare",
+      "life",
+      "sciences"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21821"
+    }
+  },
+  {
+    "id": "hightech",
+    "type": "icon",
+    "name": "HighTech",
+    "filename": "hightech.svg",
+    "keywords": [
+      "hightech"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21899"
+    }
+  },
+  {
+    "id": "human-capital-management",
+    "type": "icon",
+    "name": "Human Capital Management",
+    "filename": "human-capital-management.svg",
+    "keywords": [
+      "human",
+      "capital",
+      "management"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21879"
+    }
+  },
+  {
+    "id": "idea",
+    "type": "icon",
+    "name": "Idea",
+    "filename": "idea.svg",
+    "keywords": [
+      "idea"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21758"
+    }
+  },
+  {
+    "id": "implementation",
+    "type": "icon",
+    "name": "Implementation",
+    "filename": "implementation.svg",
+    "keywords": [
+      "implementation"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21760"
+    }
+  },
+  {
+    "id": "implementation-2",
+    "type": "icon",
+    "name": "Implementation 2",
+    "filename": "implementation-2.svg",
+    "keywords": [
+      "implementation"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21779"
+    }
+  },
+  {
+    "id": "increase-in-revenue",
+    "type": "icon",
+    "name": "Increase in revenue",
+    "filename": "increase-in-revenue.svg",
+    "keywords": [
+      "increase",
+      "in",
+      "revenue"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21714"
+    }
+  },
+  {
+    "id": "industries",
+    "type": "icon",
+    "name": "Industries",
+    "filename": "industries.svg",
+    "keywords": [
+      "industries"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21762"
+    }
+  },
+  {
+    "id": "industries-icon-menu",
+    "type": "icon",
+    "name": "Industries - Icon Menu",
+    "filename": "industries-icon-menu.svg",
+    "keywords": [
+      "industries",
+      "menu"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21809"
+    }
+  },
+  {
+    "id": "industry",
+    "type": "icon",
+    "name": "Industry",
+    "filename": "industry.svg",
+    "keywords": [
+      "industry"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21722"
+    }
+  },
+  {
+    "id": "integration-platforms",
+    "type": "icon",
+    "name": "Integration platforms",
+    "filename": "integration-platforms.svg",
+    "keywords": [
+      "integration",
+      "platforms"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21819"
+    }
+  },
+  {
+    "id": "inventory",
+    "type": "icon",
+    "name": "Inventory",
+    "filename": "inventory.svg",
+    "keywords": [
+      "inventory"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21713"
+    }
+  },
+  {
+    "id": "job-architecture",
+    "type": "icon",
+    "name": "Job Architecture",
+    "filename": "job-architecture.svg",
+    "keywords": [
+      "job",
+      "architecture"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21886"
+    }
+  },
+  {
+    "id": "laptop",
+    "type": "icon",
+    "name": "Laptop",
+    "filename": "laptop.svg",
+    "keywords": [
+      "laptop"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21763"
+    }
+  },
+  {
+    "id": "learning",
+    "type": "icon",
+    "name": "Learning",
+    "filename": "learning.svg",
+    "keywords": [
+      "learning"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21872"
+    }
+  },
+  {
+    "id": "location",
+    "type": "icon",
+    "name": "Location",
+    "filename": "location.svg",
+    "keywords": [
+      "location"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21892"
+    }
+  },
+  {
+    "id": "managed-services-and-support",
+    "type": "icon",
+    "name": "Managed Services and Support",
+    "filename": "managed-services-and-support.svg",
+    "keywords": [
+      "managed",
+      "services",
+      "support"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21764"
+    }
+  },
+  {
+    "id": "manufacturing",
+    "type": "icon",
+    "name": "Manufacturing",
+    "filename": "manufacturing.svg",
+    "keywords": [
+      "manufacturing"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21765"
+    }
+  },
+  {
+    "id": "maximize-2",
+    "type": "icon",
+    "name": "Maximize 2",
+    "filename": "maximize-2.svg",
+    "keywords": [
+      "maximize"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21768"
+    }
+  },
+  {
+    "id": "maximize-3",
+    "type": "icon",
+    "name": "Maximize 3",
+    "filename": "maximize-3.svg",
+    "keywords": [
+      "maximize"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21746"
+    }
+  },
+  {
+    "id": "maximize-v2",
+    "type": "icon",
+    "name": "Maximize V2",
+    "filename": "maximize-v2.svg",
+    "keywords": [
+      "maximize",
+      "v2"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21791"
+    }
+  },
+  {
+    "id": "meeting",
+    "type": "icon",
+    "name": "Meeting",
+    "filename": "meeting.svg",
+    "keywords": [
+      "meeting"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21770"
+    }
+  },
+  {
+    "id": "message",
+    "type": "icon",
+    "name": "Message",
+    "filename": "message.svg",
+    "keywords": [
+      "message"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21772"
+    }
+  },
+  {
+    "id": "non-profit",
+    "type": "icon",
+    "name": "Non-Profit",
+    "filename": "non-profit.svg",
+    "keywords": [
+      "non",
+      "profit"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21767"
+    }
+  },
+  {
+    "id": "on-premises-applications",
+    "type": "icon",
+    "name": "On-Premises Applications",
+    "filename": "on-premises-applications.svg",
+    "keywords": [
+      "on",
+      "premises",
+      "applications"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21882"
+    }
+  },
+  {
+    "id": "online-meeting",
+    "type": "icon",
+    "name": "Online Meeting",
+    "filename": "online-meeting.svg",
+    "keywords": [
+      "online",
+      "meeting"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21773"
+    }
+  },
+  {
+    "id": "oracle-data-and-analytics",
+    "type": "icon",
+    "name": "Oracle Data and Analytics",
+    "filename": "oracle-data-and-analytics.svg",
+    "keywords": [
+      "oracle",
+      "data",
+      "analytics"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21794"
+    }
+  },
+  {
+    "id": "organizational-change-management",
+    "type": "icon",
+    "name": "Organizational Change Management",
+    "filename": "organizational-change-management.svg",
+    "keywords": [
+      "organizational",
+      "change",
+      "management"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21927"
+    }
+  },
+  {
+    "id": "pallet-product",
+    "type": "icon",
+    "name": "Pallet-product",
+    "filename": "pallet-product.svg",
+    "keywords": [
+      "pallet",
+      "product"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21712"
+    }
+  },
+  {
+    "id": "partnership-established",
+    "type": "icon",
+    "name": "Partnership Established",
+    "filename": "partnership-established.svg",
+    "keywords": [
+      "partnership",
+      "established"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21828"
+    }
+  },
+  {
+    "id": "payback",
+    "type": "icon",
+    "name": "Payback",
+    "filename": "payback.svg",
+    "keywords": [
+      "payback"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21775"
+    }
+  },
+  {
+    "id": "peak-performance-2",
+    "type": "icon",
+    "name": "Peak Performance 2",
+    "filename": "peak-performance-2.svg",
+    "keywords": [
+      "peak",
+      "performance"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21777"
+    }
+  },
+  {
+    "id": "peak-performance-3",
+    "type": "icon",
+    "name": "Peak Performance 3",
+    "filename": "peak-performance-3.svg",
+    "keywords": [
+      "peak",
+      "performance"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21778"
+    }
+  },
+  {
+    "id": "peak-performance-4",
+    "type": "icon",
+    "name": "Peak Performance 4",
+    "filename": "peak-performance-4.svg",
+    "keywords": [
+      "peak",
+      "performance"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21782"
+    }
+  },
+  {
+    "id": "peak-performance-5",
+    "type": "icon",
+    "name": "Peak Performance 5",
+    "filename": "peak-performance-5.svg",
+    "keywords": [
+      "peak",
+      "performance"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21776"
+    }
+  },
+  {
+    "id": "person",
+    "type": "icon",
+    "name": "Person",
+    "filename": "person.svg",
+    "keywords": [
+      "person"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21785"
+    }
+  },
+  {
+    "id": "picking",
+    "type": "icon",
+    "name": "Picking",
+    "filename": "picking.svg",
+    "keywords": [
+      "picking"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21711"
+    }
+  },
+  {
+    "id": "planning",
+    "type": "icon",
+    "name": "Planning",
+    "filename": "planning.svg",
+    "keywords": [
+      "planning"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21916"
+    }
+  },
+  {
+    "id": "power-delivery",
+    "type": "icon",
+    "name": "Power Delivery",
+    "filename": "power-delivery.svg",
+    "keywords": [
+      "power",
+      "delivery"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21787"
+    }
+  },
+  {
+    "id": "power-platform",
+    "type": "icon",
+    "name": "Power Platform",
+    "filename": "power-platform.svg",
+    "keywords": [
+      "power",
+      "platform"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21796"
+    }
+  },
+  {
+    "id": "power-platform-power-automate",
+    "type": "icon",
+    "name": "Power Platform - Power Automate",
+    "filename": "power-platform-power-automate.svg",
+    "keywords": [
+      "power",
+      "platform",
+      "automate"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21789"
+    }
+  },
+  {
+    "id": "power-platform-power-bi",
+    "type": "icon",
+    "name": "Power Platform - Power BI",
+    "filename": "power-platform-power-bi.svg",
+    "keywords": [
+      "power",
+      "platform",
+      "bi"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21845"
+    }
+  },
+  {
+    "id": "power-platform-power-pages",
+    "type": "icon",
+    "name": "Power Platform - Power Pages",
+    "filename": "power-platform-power-pages.svg",
+    "keywords": [
+      "power",
+      "platform",
+      "pages"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21792"
+    }
+  },
+  {
+    "id": "power-platform-power-virtual-agents",
+    "type": "icon",
+    "name": "Power Platform - Power Virtual Agents",
+    "filename": "power-platform-power-virtual-agents.svg",
+    "keywords": [
+      "power",
+      "platform",
+      "virtual",
+      "agents"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21793"
+    }
+  },
+  {
+    "id": "problem-discovery",
+    "type": "icon",
+    "name": "Problem discovery",
+    "filename": "problem-discovery.svg",
+    "keywords": [
+      "problem",
+      "discovery"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21710"
+    }
+  },
+  {
+    "id": "process-documentation",
+    "type": "icon",
+    "name": "Process documentation",
+    "filename": "process-documentation.svg",
+    "keywords": [
+      "process",
+      "documentation"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21709"
+    }
+  },
+  {
+    "id": "process-issue",
+    "type": "icon",
+    "name": "Process issue",
+    "filename": "process-issue.svg",
+    "keywords": [
+      "process",
+      "issue"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21708"
+    }
+  },
+  {
+    "id": "process-optimization",
+    "type": "icon",
+    "name": "Process optimization",
+    "filename": "process-optimization.svg",
+    "keywords": [
+      "process",
+      "optimization"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21707"
+    }
+  },
+  {
+    "id": "product-info",
+    "type": "icon",
+    "name": "Product Info",
+    "filename": "product-info.svg",
+    "keywords": [
+      "product",
+      "info"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21865"
+    }
+  },
+  {
+    "id": "product-process",
+    "type": "icon",
+    "name": "Product process",
+    "filename": "product-process.svg",
+    "keywords": [
+      "product",
+      "process"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21706"
+    }
+  },
+  {
+    "id": "product-return-cycle",
+    "type": "icon",
+    "name": "Product return - cycle",
+    "filename": "product-return-cycle.svg",
+    "keywords": [
+      "product",
+      "return",
+      "cycle"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21780"
+    }
+  },
+  {
+    "id": "product-transport",
+    "type": "icon",
+    "name": "Product-transport",
+    "filename": "product-transport.svg",
+    "keywords": [
+      "product",
+      "transport"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21705"
+    }
+  },
+  {
+    "id": "progressive-learning",
+    "type": "icon",
+    "name": "Progressive Learning",
+    "filename": "progressive-learning.svg",
+    "keywords": [
+      "progressive",
+      "learning"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21797"
+    }
+  },
+  {
+    "id": "public-sector",
+    "type": "icon",
+    "name": "Public Sector",
+    "filename": "public-sector.svg",
+    "keywords": [
+      "public",
+      "sector"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21750"
+    }
+  },
+  {
+    "id": "puzzle",
+    "type": "icon",
+    "name": "Puzzle",
+    "filename": "puzzle.svg",
+    "keywords": [
+      "puzzle"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21876"
+    }
+  },
+  {
+    "id": "real-estate",
+    "type": "icon",
+    "name": "Real Estate",
+    "filename": "real-estate.svg",
+    "keywords": [
+      "real",
+      "estate"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21915"
+    }
+  },
+  {
+    "id": "reporting-capability",
+    "type": "icon",
+    "name": "Reporting Capability",
+    "filename": "reporting-capability.svg",
+    "keywords": [
+      "reporting",
+      "capability"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21798"
+    }
+  },
+  {
+    "id": "retail-3",
+    "type": "icon",
+    "name": "Retail 3",
+    "filename": "retail-3.svg",
+    "keywords": [
+      "retail"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21731"
+    }
+  },
+  {
+    "id": "rising-issues",
+    "type": "icon",
+    "name": "Rising issues",
+    "filename": "rising-issues.svg",
+    "keywords": [
+      "rising",
+      "issues"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21917"
+    }
+  },
+  {
+    "id": "route-map",
+    "type": "icon",
+    "name": "Route map",
+    "filename": "route-map.svg",
+    "keywords": [
+      "route",
+      "map"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21786"
+    }
+  },
+  {
+    "id": "route-planning",
+    "type": "icon",
+    "name": "Route planning",
+    "filename": "route-planning.svg",
+    "keywords": [
+      "route",
+      "planning"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21890"
+    }
+  },
+  {
+    "id": "search",
+    "type": "icon",
+    "name": "Search",
+    "filename": "search.svg",
+    "keywords": [
+      "search"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21800"
+    }
+  },
+  {
+    "id": "search-documentation",
+    "type": "icon",
+    "name": "Search documentation",
+    "filename": "search-documentation.svg",
+    "keywords": [
+      "search",
+      "documentation"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21704"
+    }
+  },
+  {
+    "id": "services",
+    "type": "icon",
+    "name": "Services",
+    "filename": "services.svg",
+    "keywords": [
+      "services"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21801"
+    }
+  },
+  {
+    "id": "services-icon-menu",
+    "type": "icon",
+    "name": "Services Icon - Menu",
+    "filename": "services-icon-menu.svg",
+    "keywords": [
+      "services",
+      "menu"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21802"
+    }
+  },
+  {
+    "id": "sheet-with-thunder",
+    "type": "icon",
+    "name": "Sheet with Thunder",
+    "filename": "sheet-with-thunder.svg",
+    "keywords": [
+      "sheet",
+      "thunder"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21811"
+    }
+  },
+  {
+    "id": "shop",
+    "type": "icon",
+    "name": "Shop",
+    "filename": "shop.svg",
+    "keywords": [
+      "shop"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21884"
+    }
+  },
+  {
+    "id": "shopping-cart-4",
+    "type": "icon",
+    "name": "Shopping Cart 4",
+    "filename": "shopping-cart-4.svg",
+    "keywords": [
+      "shopping",
+      "cart"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21795"
+    }
+  },
+  {
+    "id": "smarter-option-b",
+    "type": "icon",
+    "name": "Smarter - Option B",
+    "filename": "smarter-option-b.svg",
+    "keywords": [
+      "smarter",
+      "option"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21810"
+    }
+  },
+  {
+    "id": "smartwatch",
+    "type": "icon",
+    "name": "Smartwatch",
+    "filename": "smartwatch.svg",
+    "keywords": [
+      "smartwatch"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21812"
+    }
+  },
+  {
+    "id": "solutions-icon-menu",
+    "type": "icon",
+    "name": "Solutions - Icon Menu",
+    "filename": "solutions-icon-menu.svg",
+    "keywords": [
+      "solutions",
+      "menu"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21910"
+    }
+  },
+  {
+    "id": "sponsorship",
+    "type": "icon",
+    "name": "Sponsorship",
+    "filename": "sponsorship.svg",
+    "keywords": [
+      "sponsorship"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21807"
+    }
+  },
+  {
+    "id": "stock",
+    "type": "icon",
+    "name": "Stock",
+    "filename": "stock.svg",
+    "keywords": [
+      "stock"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21759"
+    }
+  },
+  {
+    "id": "stock-2",
+    "type": "icon",
+    "name": "Stock 2",
+    "filename": "stock-2.svg",
+    "keywords": [
+      "stock"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21703"
+    }
+  },
+  {
+    "id": "strategy-and-consulting-2",
+    "type": "icon",
+    "name": "Strategy and Consulting 2",
+    "filename": "strategy-and-consulting-2.svg",
+    "keywords": [
+      "strategy",
+      "consulting"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21816"
+    }
+  },
+  {
+    "id": "strategy-and-consulting-3",
+    "type": "icon",
+    "name": "Strategy and Consulting 3",
+    "filename": "strategy-and-consulting-3.svg",
+    "keywords": [
+      "strategy",
+      "consulting"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21815"
+    }
+  },
+  {
+    "id": "success-option-a",
+    "type": "icon",
+    "name": "Success - Option A",
+    "filename": "success-option-a.svg",
+    "keywords": [
+      "success",
+      "option"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21817"
+    }
+  },
+  {
+    "id": "success-option-c",
+    "type": "icon",
+    "name": "Success - Option C",
+    "filename": "success-option-c.svg",
+    "keywords": [
+      "success",
+      "option"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21850"
+    }
+  },
+  {
+    "id": "supply-chain-management-2",
+    "type": "icon",
+    "name": "Supply Chain Management 2",
+    "filename": "supply-chain-management-2.svg",
+    "keywords": [
+      "supply",
+      "chain",
+      "management"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21855"
+    }
+  },
+  {
+    "id": "supply-chain-management-3",
+    "type": "icon",
+    "name": "Supply Chain Management 3",
+    "filename": "supply-chain-management-3.svg",
+    "keywords": [
+      "supply",
+      "chain",
+      "management"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21818"
+    }
+  },
+  {
+    "id": "supply-chain-management-4",
+    "type": "icon",
+    "name": "Supply Chain Management 4",
+    "filename": "supply-chain-management-4.svg",
+    "keywords": [
+      "supply",
+      "chain",
+      "management"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21837"
+    }
+  },
+  {
+    "id": "system-cycle",
+    "type": "icon",
+    "name": "System cycle",
+    "filename": "system-cycle.svg",
+    "keywords": [
+      "system",
+      "cycle"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21841"
+    }
+  },
+  {
+    "id": "system-flow",
+    "type": "icon",
+    "name": "System flow",
+    "filename": "system-flow.svg",
+    "keywords": [
+      "system",
+      "flow"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21761"
+    }
+  },
+  {
+    "id": "system-path",
+    "type": "icon",
+    "name": "System path",
+    "filename": "system-path.svg",
+    "keywords": [
+      "system",
+      "path"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21702"
+    }
+  },
+  {
+    "id": "tablet",
+    "type": "icon",
+    "name": "Tablet",
+    "filename": "tablet.svg",
+    "keywords": [
+      "tablet"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21878"
+    }
+  },
+  {
+    "id": "teamwork",
+    "type": "icon",
+    "name": "Teamwork",
+    "filename": "teamwork.svg",
+    "keywords": [
+      "teamwork"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21820"
+    }
+  },
+  {
+    "id": "thumbs-up",
+    "type": "icon",
+    "name": "Thumbs Up",
+    "filename": "thumbs-up.svg",
+    "keywords": [
+      "thumbs",
+      "up"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21923"
+    }
+  },
+  {
+    "id": "tick",
+    "type": "icon",
+    "name": "Tick",
+    "filename": "tick.svg",
+    "keywords": [
+      "tick"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21823"
+    }
+  },
+  {
+    "id": "tick-2",
+    "type": "icon",
+    "name": "Tick",
+    "filename": "tick-2.svg",
+    "keywords": [
+      "tick"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21909"
+    }
+  },
+  {
+    "id": "time",
+    "type": "icon",
+    "name": "Time",
+    "filename": "time.svg",
+    "keywords": [
+      "time"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21824"
+    }
+  },
+  {
+    "id": "timer",
+    "type": "icon",
+    "name": "Timer",
+    "filename": "timer.svg",
+    "keywords": [
+      "timer"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21826"
+    }
+  },
+  {
+    "id": "tools",
+    "type": "icon",
+    "name": "Tools",
+    "filename": "tools.svg",
+    "keywords": [
+      "tools"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21827"
+    }
+  },
+  {
+    "id": "training",
+    "type": "icon",
+    "name": "Training",
+    "filename": "training.svg",
+    "keywords": [
+      "training"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21848"
+    }
+  },
+  {
+    "id": "transport",
+    "type": "icon",
+    "name": "Transport",
+    "filename": "transport.svg",
+    "keywords": [
+      "transport"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21701"
+    }
+  },
+  {
+    "id": "transport-check",
+    "type": "icon",
+    "name": "Transport check",
+    "filename": "transport-check.svg",
+    "keywords": [
+      "transport",
+      "check"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21721"
+    }
+  },
+  {
+    "id": "travel-aviation",
+    "type": "icon",
+    "name": "Travel Aviation",
+    "filename": "travel-aviation.svg",
+    "keywords": [
+      "travel",
+      "aviation"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21724"
+    }
+  },
+  {
+    "id": "understand-impacts",
+    "type": "icon",
+    "name": "Understand Impacts",
+    "filename": "understand-impacts.svg",
+    "keywords": [
+      "understand",
+      "impacts"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21830"
+    }
+  },
+  {
+    "id": "user-experience",
+    "type": "icon",
+    "name": "User Experience",
+    "filename": "user-experience.svg",
+    "keywords": [
+      "user",
+      "experience"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21831"
+    }
+  },
+  {
+    "id": "verified-increase",
+    "type": "icon",
+    "name": "Verified increase",
+    "filename": "verified-increase.svg",
+    "keywords": [
+      "verified",
+      "increase"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21717"
+    }
+  },
+  {
+    "id": "verified-inventory",
+    "type": "icon",
+    "name": "Verified inventory",
+    "filename": "verified-inventory.svg",
+    "keywords": [
+      "verified",
+      "inventory"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21700"
+    }
+  },
+  {
+    "id": "warehouse",
+    "type": "icon",
+    "name": "Warehouse",
+    "filename": "warehouse.svg",
+    "keywords": [
+      "warehouse"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21926"
+    }
+  },
+  {
+    "id": "web",
+    "type": "icon",
+    "name": "Web",
+    "filename": "web.svg",
+    "keywords": [
+      "web"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21859"
+    }
+  },
+  {
+    "id": "wind",
+    "type": "icon",
+    "name": "Wind",
+    "filename": "wind.svg",
+    "keywords": [
+      "wind"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21834"
+    }
+  },
+  {
+    "id": "workflow-manager",
+    "type": "icon",
+    "name": "Workflow Manager",
+    "filename": "workflow-manager.svg",
+    "keywords": [
+      "workflow",
+      "manager"
+    ],
+    "category": "uncategorized",
+    "dateAdded": "2026-05-08",
+    "figma": {
+      "nodeId": "4062:21781"
+    }
+  }
+]
