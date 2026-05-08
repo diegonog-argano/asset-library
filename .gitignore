@@ -1,9 +1,0 @@
-node_modules
-dist
-.DS_Store
-.env
-.env.local
-.sync-state.json
-.claude/
-*.log
-.vite
