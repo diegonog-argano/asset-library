@@ -66,13 +66,30 @@ export default function FloatingCart({ onToast }) {
             <span className={styles.panelTitle}>
               {count} {count === 1 ? 'icon' : 'icons'} ready to download
             </span>
-            <button
-              type="button"
-              className={styles.linkBtn}
-              onClick={() => clear()}
-            >
-              Clear all
-            </button>
+            <div className={styles.panelHeadActions}>
+              <button
+                type="button"
+                className={styles.linkBtn}
+                onClick={() => clear()}
+              >
+                Clear all
+              </button>
+              <button
+                type="button"
+                className={styles.closeBtn}
+                onClick={() => setOpen(false)}
+                aria-label="Close downloads"
+              >
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                  <path
+                    d="M6 6l12 12M18 6L6 18"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                  />
+                </svg>
+              </button>
+            </div>
           </div>
 
           <ul className={styles.list}>
