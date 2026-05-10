@@ -3,16 +3,12 @@ import Header from './components/Header/Header.jsx';
 import Sidebar from './components/Sidebar/Sidebar.jsx';
 import IconsSection from './components/sections/IconsSection.jsx';
 import ColorsSection from './components/sections/ColorsSection.jsx';
+import LogosSection from './components/sections/LogosSection.jsx';
 import ComingSoonSection from './components/sections/ComingSoonSection.jsx';
 import { CartProvider } from './cart/CartContext.jsx';
 import FloatingCart from './cart/FloatingCart.jsx';
 
 const COMING_SOON = {
-  logo: {
-    title: 'Logo',
-    description:
-      'Brand logo files in light/dark variants and lockups, ready to drop into decks and marketing.',
-  },
   templates: {
     title: 'Templates',
     description:
@@ -45,6 +41,8 @@ export default function App() {
         return <IconsSection onToast={showToast} />;
       case 'colors':
         return <ColorsSection onToast={showToast} />;
+      case 'logo':
+        return <LogosSection onToast={showToast} />;
       default: {
         const meta = COMING_SOON[section];
         if (!meta) return null;

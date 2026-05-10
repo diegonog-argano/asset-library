@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "npm run build && gh-pages -d dist",
-    "sync-figma": "node scripts/sync-figma.js"
+    "sync-figma": "node scripts/sync-figma.js",
+    "sync-logos": "node scripts/sync-logos.js"
   },
   "dependencies": {
     "jszip": "^3.10.1",

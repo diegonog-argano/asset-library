@@ -22,7 +22,7 @@ export default function FloatingCart({ onToast }) {
           const blob = new Blob([it.svg], { type: 'image/svg+xml' });
           triggerBlobDownload(blob, `${it.asset.id}.svg`);
         } else {
-          const blob = await svgToPngBlob(it.svg, PNG_SIZE);
+          const blob = await svgToPngBlob(it.svg, { longEdge: PNG_SIZE });
           triggerBlobDownload(blob, `${it.asset.id}.png`);
         }
       } else {
@@ -36,7 +36,7 @@ export default function FloatingCart({ onToast }) {
           if (format === 'svg') {
             zip.file(`${safeName}.svg`, it.svg);
           } else {
-            const pngBlob = await svgToPngBlob(it.svg, PNG_SIZE);
+            const pngBlob = await svgToPngBlob(it.svg, { longEdge: PNG_SIZE });
             zip.file(`${safeName}.png`, pngBlob);
           }
         }

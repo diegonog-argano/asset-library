@@ -1,0 +1,145 @@
+[
+  {
+    "id": "logomark-full",
+    "type": "logo",
+    "logoType": "logomark",
+    "color": "full",
+    "name": "Logomark · Full",
+    "filename": "logomark-full.svg",
+    "width": 38.0056266784668,
+    "height": 36,
+    "figma": {
+      "nodeId": "5565:573"
+    }
+  },
+  {
+    "id": "logomark-black",
+    "type": "logo",
+    "logoType": "logomark",
+    "color": "black",
+    "name": "Logomark · Black",
+    "filename": "logomark-black.svg",
+    "width": 38.0056266784668,
+    "height": 36,
+    "figma": {
+      "nodeId": "5565:574"
+    }
+  },
+  {
+    "id": "logomark-white",
+    "type": "logo",
+    "logoType": "logomark",
+    "color": "white",
+    "name": "Logomark · White",
+    "filename": "logomark-white.svg",
+    "width": 38.0056266784668,
+    "height": 36,
+    "figma": {
+      "nodeId": "5565:575"
+    }
+  },
+  {
+    "id": "horizontal-full",
+    "type": "logo",
+    "logoType": "horizontal",
+    "color": "full",
+    "name": "Horizontal Logo · Full",
+    "filename": "horizontal-full.svg",
+    "width": 130.46798706054688,
+    "height": 36,
+    "figma": {
+      "nodeId": "5565:514"
+    }
+  },
+  {
+    "id": "horizontal-black",
+    "type": "logo",
+    "logoType": "horizontal",
+    "color": "black",
+    "name": "Horizontal Logo · Black",
+    "filename": "horizontal-black.svg",
+    "width": 130.46798706054688,
+    "height": 36,
+    "figma": {
+      "nodeId": "5565:571"
+    }
+  },
+  {
+    "id": "horizontal-white",
+    "type": "logo",
+    "logoType": "horizontal",
+    "color": "white",
+    "name": "Horizontal Logo · White",
+    "filename": "horizontal-white.svg",
+    "width": 130.46798706054688,
+    "height": 36,
+    "figma": {
+      "nodeId": "5565:572"
+    }
+  },
+  {
+    "id": "horizontal-inverse",
+    "type": "logo",
+    "logoType": "horizontal",
+    "color": "inverse",
+    "name": "Horizontal Logo · Inverse",
+    "filename": "horizontal-inverse.svg",
+    "width": 130.46798706054688,
+    "height": 36,
+    "figma": {
+      "nodeId": "5565:576"
+    }
+  },
+  {
+    "id": "vertical-full",
+    "type": "logo",
+    "logoType": "vertical",
+    "color": "full",
+    "name": "Vertical Logo · Full",
+    "filename": "vertical-full.svg",
+    "width": 100,
+    "height": 95.1964111328125,
+    "figma": {
+      "nodeId": "5565:577"
+    }
+  },
+  {
+    "id": "vertical-black",
+    "type": "logo",
+    "logoType": "vertical",
+    "color": "black",
+    "name": "Vertical Logo · Black",
+    "filename": "vertical-black.svg",
+    "width": 100,
+    "height": 95.19640350341797,
+    "figma": {
+      "nodeId": "5565:578"
+    }
+  },
+  {
+    "id": "vertical-white",
+    "type": "logo",
+    "logoType": "vertical",
+    "color": "white",
+    "name": "Vertical Logo · White",
+    "filename": "vertical-white.svg",
+    "width": 100,
+    "height": 95.19640350341797,
+    "figma": {
+      "nodeId": "5565:579"
+    }
+  },
+  {
+    "id": "vertical-inverse",
+    "type": "logo",
+    "logoType": "vertical",
+    "color": "inverse",
+    "name": "Vertical Logo · Inverse",
+    "filename": "vertical-inverse.svg",
+    "width": 100,
+    "height": 95.19640350341797,
+    "figma": {
+      "nodeId": "5565:580"
+    }
+  }
+]

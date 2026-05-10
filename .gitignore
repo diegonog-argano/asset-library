@@ -4,6 +4,7 @@ dist
 .env
 .env.local
 .sync-state.json
+.sync-logos-state.json
 .claude/
 *.log
 .vite
